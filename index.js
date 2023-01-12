@@ -1,6 +1,3 @@
-// Este es el mensaje de bienvenida
-console.log ("Esta es la puerta de entrada a JS");
-
-//Este va a ser el mensaje para despedir
-console.log("adios")
+//Ejercicio 1 JS Básico.
+console.log("Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo");
 
